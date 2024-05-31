@@ -83,7 +83,7 @@ UWAGA: :q!<ENTER> porzuca wszelkie zmiany jakie zrobiłeś. W następnych
 
   4. Powtarzaj kroki 2. do 4. dopóki zdanie nie jest poprawne.
 
----> krowa przeskoczyła przez księżyc.
+---> Krowa przeskoczyła przez księżyc.
 
   5. Teraz, kiedy zdanie jest poprawione, przejdź do Lekcji 1.4.
 
